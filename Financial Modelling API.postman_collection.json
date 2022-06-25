@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "e24c0c2c-4e94-486b-bc7c-090c73560976",
+		"name": "Financial Modelling API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12309955"
+	},
+	"item": [
+		{
+			"name": "Stock price",
+			"item": [
+				{
+					"name": "Real time stock price",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
